@@ -1,4 +1,4 @@
-from flows import pipe
+from weather1-flow import pipe
 from prefect.deployments import Deployment
 from prefect.filesystems import GitHub
 
